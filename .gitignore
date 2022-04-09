@@ -1,6 +1,7 @@
 # Select plugins with prefix "drl-"
 wordpress/*
 !wordpress/wp-content/
+!wordpress/wp-config.php
 wordpress/wp-content/*
 !wordpress/wp-content/plugins/
 wordpress/wp-content/plugins/*
