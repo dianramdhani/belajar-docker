@@ -3,9 +3,12 @@
 ## Motivasi
 Buat aplikasi dengan minimal resource dan minimal effort.
 
+<blockquote>"Karena semua orang pasti bisa ngoding"</blockquote>
+
 ## Tool
 - [Docker image](https://hub.docker.com/r/tomsik68/xampp)
 - [Wordpress](https://wordpress.org/download/)
+- [Laptop minimal spec](https://www.samsung.com/id/computers/chromebook/samsung-chromebook-4-celeron-4gb-32gb-xe310xba-ka2id/)
 
 ## Panduan Penggunaan
 Menggunakan file sh yang telah dibuat.
