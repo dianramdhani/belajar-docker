@@ -28,7 +28,7 @@ sudo chmod -R 777 wordpress/
 Menggunakan file sh yang telah dibuat.
 
 ```bash
-# Membuat container
+# Download image kemudian membuat container
 sh create.sh
 
 # Menjalankan container
@@ -40,6 +40,13 @@ sh stop.sh
 # Menghapus container
 sh remove.sh
 ```
+
+### Install wordpress
+
+Pastikan container sudah start.
+
+- Buat database wordpress di url http://localhost/phpmyadmin
+- Buka wordpress dan setup di url http://localhost/www
 
 ## License
 
